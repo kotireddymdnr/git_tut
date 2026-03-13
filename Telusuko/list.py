@@ -30,4 +30,6 @@ print(com[1][2])
 print(comibined[7])
 print(comibined)
 com.append('python')
+
 print(com)
+com.insert(1,'java')
